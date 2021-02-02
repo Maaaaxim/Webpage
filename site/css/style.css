@@ -97,6 +97,10 @@ h1, h2, h3, h4, h5, h6 {
         position: relative;
         top: 3px; }
 
+.container {
+  max-width: 75%;
+  margin: 0 auto; }
+
 .header2 {
   display: block;
   margin: 0 auto;
@@ -135,7 +139,7 @@ h1, h2, h3, h4, h5, h6 {
     .content__videos span {
       display: block;
       font-weight: bold;
-      font-size: 20px;
+      font-size: 23px;
       text-align: center; }
   .content__vid {
     padding: 0 0 10px 0;
