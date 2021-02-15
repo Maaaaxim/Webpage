@@ -1,0 +1,14 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	margin: 0;
+	font: 400 16px/1.5 sans-serif;
+}
+.text {
+	font-size: 27px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
